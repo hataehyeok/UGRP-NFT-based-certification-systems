@@ -1,5 +1,5 @@
-# PAMS_NFT
-2022_UGRP
+# NFT-based certification systems for eﬀicient recruitment processes
+# NFT를 활용한 확장된 PAMS 시스템 제작
 
 NFT와 블록체인을 이용한 PAMS 시스템 개선과 NFT 소유자들의 커뮤니티 구현을 위한 학부생 연구 프로그램
 
